@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カレーの唄",
+  "base_artist": "茶太",
+  "createdAt": "2026-03-19T16:00:37.023378Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カレーの唄",
+      "artist": "茶太",
+      "has_synced": false,
+      "path": "select/pl_01_カレーの唄_茶太.txt"
+    }
+  ]
+}
